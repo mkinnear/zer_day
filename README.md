@@ -1,1 +1,1 @@
-# zer_day
+This is mandatory for all projects
